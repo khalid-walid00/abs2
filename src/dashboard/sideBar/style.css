@@ -1,0 +1,15 @@
+.active{
+    background: #11B5EA ;
+    color: white;
+    font-weight: 100;
+}
+
+::-webkit-scrollbar {
+ width: 2px;
+ 
+}
+
+::-webkit-scrollbar-track {
+ background: #11B5EA;
+ 
+}
